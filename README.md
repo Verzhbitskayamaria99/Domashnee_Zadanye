@@ -62,6 +62,6 @@ A story of my life
 | Мкн | 12:10-13:30 | 412 | Русева  В.В. |
 | Мкн | 16:40-18:00 | 511 | Жунич И. И. |
 
-A meme
+Just a picture
 
-![](https://vk.com/hsemem?z=photo-139105204_456242549%2Falbum-139105204_00%2Frev)
+![](https://yandex.ru/images/search?text=картинка&img_url=https%3A%2F%2Fs1.1zoom.ru%2Fbig3%2F753%2F371608-svetik.jpg&pos=1&rpt=simage)
