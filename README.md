@@ -78,4 +78,4 @@ A story of my life
 
 Just a picture
 
-![](https://yandex.ru/images/search?text=картинка&img_url=https%3A%2F%2Fs1.1zoom.ru%2Fbig3%2F753%2F371608-svetik.jpg&pos=1&rpt=simage)
+![](https://imagejournal.org/wp-content/uploads/bb-plugin/cache/23466317216_b99485ba14_o-panorama.jpg)
